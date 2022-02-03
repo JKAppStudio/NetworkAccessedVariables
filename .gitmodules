@@ -1,0 +1,3 @@
+[submodule "ClientServerNetwork"]
+	path = ClientServerNetwork
+	url = https://github.com/JKAppStudio/ClientServerNetwork
