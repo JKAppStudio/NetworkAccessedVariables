@@ -1,0 +1,2 @@
+/Users/evgenykrivoshein/Documents/VSCode_Projects/NetworkAccessedVariables/build/CMakeFiles/rebuild_cache.dir
+/Users/evgenykrivoshein/Documents/VSCode_Projects/NetworkAccessedVariables/build/CMakeFiles/edit_cache.dir
